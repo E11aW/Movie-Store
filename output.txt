@@ -1,0 +1,118 @@
+# Program Ouptut #
+=====================================
+Start testStoreFinal
+Unknown movie type: Z, discarding line: 10, Hal Ashby, Harold and Maude, Bud Cort 3 1971
+Unknown movie type: Z, discarding line: 10, Frank Capra, It's a Wonderful Life, James Steward 11 1946
+Unknown Command type: X, discarding line: 
+Unknown Command type: Z, discarding line:  1000 D C 10 1941 Humphrey Bogart
+Unrecognized media type: Z, discarding line: F Fargo, 1996Annie Hall, 1977, Woody Allen (10) - Comedy
+Fargo, 1996, Joel Coen (10) - Comedy
+National Lampoon's Animal House, 1978, John Landis (10) - Comedy
+Pirates of the Caribbean, 2000, Different Years (10) - Comedy
+Pirates of the Caribbean, 2003, Gore Verbinski (10) - Comedy
+Sleepless in Seattle, 1993, Nora Ephron (10) - Comedy
+When Harry Met Sally, 1989, Rob Reiner (10) - Comedy
+You've Got Mail, 1998, Nora Ephron (10) - Comedy
+Good Morning Vietnam, 1988, Barry Levinson (10) - Drama
+Same Director Good Morning Vietnam, 1988, Barry Levinson (10) - Drama
+Unforgiven, 1992, Clint Eastwood (10) - Drama
+Good Will Hunting, 2000, Gus Van Sant (10) - Drama
+Silence of the Lambs, 1991, Jonathan Demme (10) - Drama
+Dogfight, 1991, Nancy Savoca (10) - Drama
+King of Hearts, 1967, Phillippe De Broca (10) - Drama
+Schindler's List, 1993, Steven Spielberg (10) - Drama
+1938 9, Cary Grant, George Cukor, Holiday (10) - Classics
+1938 9, Katherine Hepburn, George Cukor, Holiday (10) - Classics
+1939 2, Clark Gable, Victor Fleming, Gone With the Wind (10) - Classics
+1939 2, Vivien Leigh, Victor Fleming, Gone With the Wind (10) - Classics
+1939 7, Judy Garland, Victor Fleming, The Wizard of Oz (10) - Classics
+1940 5, Cary Grant, George Cukor, The Philadelphia Story (10) - Classics
+1940 5, Katherine Hepburn, George Cukor, The Philadelphia Story (10) - Classics
+1941 10, Humphrey Bogart, John Huston, The Maltese Falcon (10) - Classics
+1942 8, Humphrey Bogart, Michael Curtiz, Casablanca (10) - Classics
+1942 8, Ingrid Bergman, Michael Curtiz, Casablanca (10) - Classics
+1946 11, Donna Reed, Frank Capra, It's a Wonderful Life (10) - Classics
+1946 11, James Steward, Frank Capra, It's a Wonderful Life (10) - Classics
+1971 2, Malcolm McDowell, Stanley Kubrick, A Clockwork Orange (10) - Classics
+1971 3, Ruth Gordon, Hal Ashby, Harold and Maude (10) - Classics
+History for 1000 Mouse Minnie:
+	No history
+History for 5000 Frog Freddie:
+	No history
+History for 8000 Wacky Wally:
+	No history
+Not enough stock to borrow movie titled: Harold and Maude
+Error: customer ID 1234 not found
+Store does not contain movie: Bogus Title 2001
+Store does not contain movie:  
+Not enough stock to borrow movie titled: Harold and Maude
+Not enough stock to borrow movie titled: Harold and Maude
+Not enough stock to borrow movie titled: Harold and Maude
+Not enough stock to borrow movie titled: Harold and Maude
+Not enough stock to borrow movie titled: Harold and Maude
+Store does not contain movie: Steven Spielberg Bogus Title
+Annie Hall, 1977, Woody Allen (9) - Comedy
+Fargo, 1996, Joel Coen (9) - Comedy
+National Lampoon's Animal House, 1978, John Landis (9) - Comedy
+Pirates of the Caribbean, 2000, Different Years (10) - Comedy
+Pirates of the Caribbean, 2003, Gore Verbinski (10) - Comedy
+Sleepless in Seattle, 1993, Nora Ephron (9) - Comedy
+When Harry Met Sally, 1989, Rob Reiner (9) - Comedy
+You've Got Mail, 1998, Nora Ephron (8) - Comedy
+Good Morning Vietnam, 1988, Barry Levinson (9) - Drama
+Same Director Good Morning Vietnam, 1988, Barry Levinson (10) - Drama
+Unforgiven, 1992, Clint Eastwood (9) - Drama
+Good Will Hunting, 2000, Gus Van Sant (9) - Drama
+Silence of the Lambs, 1991, Jonathan Demme (9) - Drama
+Dogfight, 1991, Nancy Savoca (8) - Drama
+King of Hearts, 1967, Phillippe De Broca (9) - Drama
+Schindler's List, 1993, Steven Spielberg (9) - Drama
+1938 9, Cary Grant, George Cukor, Holiday (9) - Classics
+1938 9, Katherine Hepburn, George Cukor, Holiday (10) - Classics
+1939 2, Clark Gable, Victor Fleming, Gone With the Wind (10) - Classics
+1939 2, Vivien Leigh, Victor Fleming, Gone With the Wind (10) - Classics
+1939 7, Judy Garland, Victor Fleming, The Wizard of Oz (10) - Classics
+1940 5, Cary Grant, George Cukor, The Philadelphia Story (9) - Classics
+1940 5, Katherine Hepburn, George Cukor, The Philadelphia Story (9) - Classics
+1941 10, Humphrey Bogart, John Huston, The Maltese Falcon (9) - Classics
+1942 8, Humphrey Bogart, Michael Curtiz, Casablanca (10) - Classics
+1942 8, Ingrid Bergman, Michael Curtiz, Casablanca (10) - Classics
+1946 11, Donna Reed, Frank Capra, It's a Wonderful Life (10) - Classics
+1946 11, James Steward, Frank Capra, It's a Wonderful Life (10) - Classics
+1971 2, Malcolm McDowell, Stanley Kubrick, A Clockwork Orange (7) - Classics
+1971 3, Ruth Gordon, Hal Ashby, Harold and Maude (0) - Classics
+History for 1000 Mouse Minnie:
+	Borrowed movie: Barry Levinson, Good Morning Vietnam
+	Borrowed movie: 5 1940, Katherine Hepburn
+	Borrowed movie: Gus Van Sant, Good Will Hunting
+	Borrowed movie: 5 1940, Cary Grant
+	Borrowed movie: 3 1971, Ruth Gordon
+History for 1111 Mouse Mickey:
+	Borrowed movie: 2 1971, Malcolm McDowell
+	Borrowed movie: 2 1971, Malcolm McDowell
+	Borrowed movie: 3 1971, Ruth Gordon
+	Borrowed movie: 10 1941, Humphrey Bogart
+	Borrowed movie: 9 1938, Cary Grant
+History for 5000 Frog Freddie:
+	Borrowed movie: 3 1971, Ruth Gordon
+	Returned movie: 3 1971, Ruth Gordon
+	Borrowed movie: 3 1971, Ruth Gordon
+	Returned movie: 3 1971, Ruth Gordon
+	Borrowed movie: 3 1971, Ruth Gordon
+	Returned movie: 3 1971, Ruth Gordon
+	Borrowed movie: 3 1971, Ruth Gordon
+History for 8000 Wacky Wally:
+	Borrowed movie: You've Got Mail, 1998
+	Returned movie: You've Got Mail, 1998
+	Borrowed movie: 3 1971, Ruth Gordon
+	Borrowed movie: 3 1971, Ruth Gordon
+	Borrowed movie: National Lampoon's Animal House, 1978
+History for 8888 Pig Porky:
+	Borrowed movie: Annie Hall, 1977
+	Borrowed movie: When Harry Met Sally, 1989
+	Borrowed movie: Jonathan Demme, Silence of the Lambs
+	Borrowed movie: Nancy Savoca, Dogfight
+	Borrowed movie: 3 1971, Ruth Gordon
+End testStoreFinal
+=====================================
+Done.
